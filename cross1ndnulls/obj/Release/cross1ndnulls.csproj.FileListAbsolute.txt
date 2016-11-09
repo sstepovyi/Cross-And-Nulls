@@ -1,0 +1,9 @@
+c:\users\sstepovyi.imb\documents\visual studio 2015\Projects\cross1ndnulls\cross1ndnulls\bin\Release\cross1ndnulls.exe.config
+c:\users\sstepovyi.imb\documents\visual studio 2015\Projects\cross1ndnulls\cross1ndnulls\bin\Release\cross1ndnulls.exe
+c:\users\sstepovyi.imb\documents\visual studio 2015\Projects\cross1ndnulls\cross1ndnulls\bin\Release\cross1ndnulls.pdb
+c:\users\sstepovyi.imb\documents\visual studio 2015\Projects\cross1ndnulls\cross1ndnulls\obj\Release\cross1ndnulls.Game.resources
+c:\users\sstepovyi.imb\documents\visual studio 2015\Projects\cross1ndnulls\cross1ndnulls\obj\Release\cross1ndnulls.Properties.Resources.resources
+c:\users\sstepovyi.imb\documents\visual studio 2015\Projects\cross1ndnulls\cross1ndnulls\obj\Release\cross1ndnulls.csproj.GenerateResource.Cache
+c:\users\sstepovyi.imb\documents\visual studio 2015\Projects\cross1ndnulls\cross1ndnulls\obj\Release\cross1ndnulls.exe
+c:\users\sstepovyi.imb\documents\visual studio 2015\Projects\cross1ndnulls\cross1ndnulls\obj\Release\cross1ndnulls.pdb
+c:\users\sstepovyi.imb\documents\visual studio 2015\Projects\cross1ndnulls\cross1ndnulls\obj\Release\cross1ndnulls.csprojResolveAssemblyReference.cache
